@@ -27,7 +27,7 @@
                 <p>В ИЖЕВСКЕ</p>
             </div>
             <div class="section-one-img">
-                <img src="/assets/d3.png" alt="">
+                <img src="/assets/toporinLog.png" width="300" alt="">
             </div>
         </div>
     </div>
