@@ -37,6 +37,9 @@
 
 <section id="section2">
     <div class="overlayBlack"></div>
+    <video autoplay muted loop id="myVideo">
+        <source src="assets/bg1.mp4" type="video/mp4">
+    </video>
     <div class="row-h">
         <div class="section-two">
             <div class="section-two-item">
