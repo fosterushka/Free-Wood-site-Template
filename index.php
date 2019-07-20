@@ -2,9 +2,10 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="/assets/style.css">
     <title>Купить дрова с доставкой Ижевск</title>
     <link href="https://fonts.googleapis.com/css?family=Play&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/style.css">
+    <link rel="stylesheet" href="/assets/css/iconmonstr-iconic-font.css">
 </head>
 <body>
 
@@ -12,7 +13,7 @@
     <div class="row-h">
         <div class="header">
             <p style="font-size: 38px;" class="txt-orange">Дрова Ижевск</p>
-            <p style="font-size: 24px; text-align: right; color: white;">+7 999 (189)-72-17<br><span class="txt-red">Сделайте заказ прямо сейчас</span>
+            <p style="font-size: 24px; text-align: right; color: white;">+7 950 819 08 87<br><span class="txt-red">Сделайте заказ прямо сейчас</span>
             </p>
         </div>
     </div>
@@ -107,8 +108,15 @@
     </div>
 </section>
 
-<section>
-    <h2>КОНТАКТЫ</h2>
+<section id="section4">
+    <div class="overlayBlack"></div>
+    <h2 class="z-indexUP">КОНТАКТЫ</h2>
+    <div class="section4-block-info z-indexUP">
+        <a href=""><i class="im im-whatsapp"></i></a>
+        <a href=""><i class="im im-mail"></i></a>
+        <a href=""><i class="im im-phone"></i></a>
+        <a href=""><i class="im im-paperplane"></i></a>
+    </div>
 </section>
 
 
