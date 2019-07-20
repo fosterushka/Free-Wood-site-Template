@@ -64,6 +64,7 @@
             <h2>НАШИ УСЛУГИ</h2>
             <div class="service-box">
                 <div class="service-box-item">
+                    <div class="hotSale">ХИТ ПРОДАЖ</div>
                     <img src="/assets/mix1.png" width="300" alt="">
                     <div class="item-title">ЛИПА / ОСИНА / ЕЛЬ</div>
                     <p> 1,2куб Пикап - 2000 тыс.р</p>
