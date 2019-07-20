@@ -12,7 +12,7 @@
 <header>
     <div class="row-h">
         <div class="header">
-            <p style="font-size: 38px;" class="txt-orange">Дрова Ижевск</p>
+            <p style="font-size: 38px;" class="txt-ylw">Дрова Ижевск</p>
             <p style="font-size: 24px; text-align: right; color: white;">+7 950 819 08 87<br><span class="txt-red">Сделайте заказ прямо сейчас</span>
             </p>
         </div>

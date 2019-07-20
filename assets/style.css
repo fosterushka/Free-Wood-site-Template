@@ -33,14 +33,19 @@ h2 { margin: 20px 0}
 :root {
     --clr-orange: #de8200;
     --clr-red: rgba(220, 20, 60, 0.79);
+    --clr-ylw: #ffd600;
 }
 
 .txt-orange {
-    color: var(--clr-orange)
+    color: var(--clr-orange);
+}
+
+.txt-ylw {
+    color: var(--clr-ylw);
 }
 
 .txt-red {
-    color: var(--clr-red)
+    color: var(--clr-red);
 }
 
 /*ColorsEnd*/
