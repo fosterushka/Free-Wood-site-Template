@@ -216,5 +216,5 @@ a i.im:hover {color: white;}
 #section4 {background-color: #b0b0b0; align-items: center; background-image: url("/assets/bgFooter.jpg");
     display: flex; width: 100%; flex-flow: column wrap}
 #section4 h2 {color: white;}
-.section4-block-info {width: 400px;display: gflex; justify-content: space-between;align-items: center;margin: 20px auto;}
+.section4-block-info {width: 400px;display: flex; justify-content: space-between;align-items: center;margin: 20px auto;}
 /*SectionFourEnd*/
