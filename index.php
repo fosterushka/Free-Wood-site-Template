@@ -12,7 +12,7 @@
     <div class="row-h">
         <div class="header">
             <p style="font-size: 38px;" class="txt-orange">Дрова Ижевск</p>
-            <p style="font-size: 24px; text-align: right;">+7 999 (189)-72-17<br><span class="txt-red">Сделайте заказ прямо сейчас</span>
+            <p style="font-size: 24px; text-align: right; color: white;">+7 999 (189)-72-17<br><span class="txt-red">Сделайте заказ прямо сейчас</span>
             </p>
         </div>
     </div>
@@ -35,16 +35,20 @@
 </section>
 
 <section id="section2">
+    <div class="overlayBlack"></div>
     <div class="row-h">
         <div class="section-two">
             <div class="section-two-item">
-                <div class="section-two-item-title">Качество древесины, и честный объем </div>
+                <div class="section-two-item-title">Качество древесины,<br> и честный объем </div>
+                <div class="section-two-item-img"><img src="/assets/w1.png" alt=""></div>
             </div>
             <div class="section-two-item">
                 <div class="section-two-item-title">Бесплатная доставка</div>
+                <div class="section-two-item-img"><img src="/assets/w2.png" alt=""></div>
             </div>
             <div class="section-two-item">
                 <div class="section-two-item-title">Доступные цены </div>
+                <div class="section-two-item-img"><img src="/assets/w3.png" alt=""></div>
             </div>
         </div>
     </div>
@@ -56,7 +60,7 @@
             <h2>НАШИ УСЛУГИ</h2>
             <div class="service-box">
                 <div class="service-box-item">
-                    <img src="/assets/d1.jpg" alt="">
+                    <img src="/assets/mix1.png" width="300" alt="">
                     <div class="item-title">ЛИПА / ОСИНА / ЕЛЬ</div>
                     <p> 1,2куб Пикап - 2000 тыс.р</p>
                     <p>2,5куб Газель - 4000 тыс.р</p>
@@ -70,28 +74,28 @@
                     <p>5куб Газ Самосвал - 7700 тыс.р</p>
                 </div>
                 <div class="service-box-item">
-                    <img src="/assets/d1.jpg" alt="">
+                    <img src="/assets/2.png" width="300" alt="">
                     <div class="item-title">СУХАЯ БЕРЕЗА</div>
                     <p> 1,2куб Пикап - 4300 тыс тыс.р</p>
                     <p>2,5куб Газель - 7300 тыс.р</p>
                     <p>5куб Газ Самосвал - 14500 тыс.р</p>
                 </div>
                 <div class="service-box-item">
-                    <img src="/assets/d1.jpg" alt="">
+                    <img src="/assets/d3.png" alt="">
                     <div class="item-title">ЕЛЬ СУХАЯ</div>
                     <p> 1,2куб Пикап - 2300 тыс.р</p>
                     <p>2,5куб Газель - 4300 тыс.р</p>
                     <p>5куб Газ Самосвал - 7500 тыс.р</p>
                 </div>
                 <div class="service-box-item">
-                    <img src="/assets/d1.jpg" alt="">
+                    <img src="/assets/mixItem.png" alt="">
                     <div class="item-title">СМЕШАННАЯ ОСИНА,ЛИПА И ЕЛЬ</div>
                     <p> 1,2куб Пикап - 2300 тыс.р</p>
                     <p>2,5куб Газель - 4000 тыс.р</p>
                     <p>5куб Газ Самосвал - 7500 тыс.р</p>
                 </div>
                 <div class="service-box-item">
-                    <img src="/assets/d1.jpg" alt="">
+                    <img src="/assets/oak.png" width="200" alt="">
                     <div class="item-title">СМЕШАННАЯ СУХАЯ И СЫРАЯ БЕРЕЗА <br>50% / 50%</div>
                     <p> 1,2куб Пикап - 3000 тыс.р</p>
                     <p>2,5куб Газель - 5300 тыс.р</p>
