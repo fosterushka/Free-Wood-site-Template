@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f61480c-35f0-4551-b0f5-212d9421e7a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style.css" afterDir="false" />
+    <list default="true" id="a749027f-660c-4d27-b28e-55082b31c8df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/AMR.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/husein.local.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/сайт с дровами.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bg1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bgFooter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bgSection1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bgSection2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/d1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/d3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/delivery.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/k1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/k2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/k3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/k4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mix1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mixItem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/oak.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/toporinLog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/w1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/w2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/w3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/w4.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,14 +45,14 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5538462">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="336">
-                  <caret line="65" column="34" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
+                <state relative-caret-position="374">
+                  <caret line="22" selection-start-line="22" selection-end-line="22" />
                 </state>
               </provider>
             </entry>
@@ -34,10 +62,10 @@
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/assets/style.css">
+            <entry file="file://$PROJECT_DIR$/assets/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="250">
-                  <caret line="226" column="23" selection-start-line="226" selection-start-column="23" selection-end-line="226" selection-end-column="23" />
+                <state relative-caret-position="593">
+                  <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
@@ -46,19 +74,10 @@
       </split-second>
     </splitter>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
-        <option value="JavaScript File" />
-      </list>
-    </option>
-  </component>
   <component name="FindInProjectRecents">
-    <findStrings>
-      <find>section-two-item-title</find>
-    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,21 +85,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assets/jquery.js" />
-        <option value="$PROJECT_DIR$/assets/scripts.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/assets/style.css" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="320" />
-    <option name="y" value="130" />
-    <option name="width" value="1920" />
-    <option name="height" value="780" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1861" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="827" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -106,13 +127,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="ignore_missing_gitignore" value="true" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -131,26 +149,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0f61480c-35f0-4551-b0f5-212d9421e7a7" name="Default Changelist" comment="" />
-      <created>1563565300058</created>
+      <changelist id="a749027f-660c-4d27-b28e-55082b31c8df" name="Default Changelist" comment="" />
+      <created>1563816114183</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1563565300058</updated>
-      <workItem from="1563565310063" duration="39000" />
-      <workItem from="1563565369647" duration="4182000" />
-      <workItem from="1563570143829" duration="7454000" />
-      <workItem from="1563607063687" duration="4705000" />
+      <updated>1563816114183</updated>
+      <workItem from="1563816116294" duration="1178000" />
+      <workItem from="1563817306514" duration="3016000" />
+      <workItem from="1563824692988" duration="4048000" />
+      <workItem from="1563830409631" duration="3110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16380000" />
+    <option name="totallyTimeSpent" value="11352000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <frame x="-1608" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.104928456" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1600257" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -163,7 +181,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -175,43 +193,41 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/subindex.js.Без названия" />
-    <entry file="file://$PROJECT_DIR$/assets/watch.js" />
-    <entry file="file://$PROJECT_DIR$/assets/common.js.Без названия" />
-    <entry file="file://$PROJECT_DIR$/assets/json.txt" />
-    <entry file="file://$PROJECT_DIR$/assets/jquery.js">
+    <entry file="file://$PROJECT_DIR$/mail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="226" column="23" selection-start-line="226" selection-start-column="23" selection-end-line="226" selection-end-column="23" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="65" column="34" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
