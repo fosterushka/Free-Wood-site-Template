@@ -3,13 +3,11 @@
     margin: 0;
     font-family: 'Play', sans-serif;
     user-select: none;
+    z-index: 2;
 }
 
-a {
-    text-decoration: none;
-}
+a {text-decoration: none;}
 
-.z-indexUP{z-index: 5}
 .row-h {
     max-width: 1200px;
     width: 100%;
@@ -28,32 +26,24 @@ a {
     background-color: black;
     opacity: 0.4;
     width: 100%;
+    z-index: 1;
     height: 100%;
 }
 
 h2 { margin: 20px 0}
 
-/*normalize*/
 /*colorStart*/
 :root {
     --clr-orange: #de8200;
     --clr-red: rgba(220, 20, 60, 0.79);
     --clr-ylw: #ffd600;
 }
-
-.txt-orange {
-    color: var(--clr-orange);
-}
-
-.txt-ylw {
-    color: var(--clr-ylw);
-}
-
-.txt-red {
-    color: var(--clr-red);
-}
+.txt-orange {color: var(--clr-orange);}
+.txt-ylw {color: var(--clr-ylw);}
+.txt-red {color: var(--clr-red);}
 
 /*ColorsEnd*/
+
 /*headerStart*/
 header {
     width: 100%;
@@ -69,7 +59,7 @@ header {
     justify-content: space-between;
     height: 100%;
     align-items: center;
-    position: absolute;
+    position: sticky;
     top: 0;
     left: 0;
     z-index: 2;
@@ -96,14 +86,6 @@ section {
     justify-content: center;
     flex-flow: column wrap;
 }
-
-video {object-fit: cover;
-    width: 100%;
-    height: 100%;
-position: absolute;
-top: 0;
-left: 0;
-z-index: -1}
 
 .section-one-info {
     display: flex;
@@ -132,7 +114,6 @@ z-index: -1}
     font-size: 24px;
     text-decoration: none;
     text-align: center;
-    transition: 500ms;
     align-self: center;
     z-index: 2;
     margin: 50px 0;
@@ -192,16 +173,21 @@ z-index: -1}
 .hotSale {
     border-radius: 50%;
     background: crimson;
-    line-height: 100px;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    text-align: center;
+    align-items: center;
     padding: 5px;
     color: white;
     position: absolute;
+    z-index: 3;
     right: 20px;
     top: 20px;
 }
 /*SectionTwoEND*/
 /*SectionThree*/
-#section3 {background-color: #efefef; border-bottom: 1px solid rgba(23, 23, 23, 0.49);
+#section3 {background-color: #efefef; border-bottom: 1px solid #000;
     display: flex;justify-content: center;align-items: center;flex-flow: column wrap;}
 .section-three {
     display: flex;
