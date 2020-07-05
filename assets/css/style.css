@@ -8,14 +8,21 @@
 
 a {text-decoration: none;}
 
+.phoneNumber {
+    font-size: 1.5rem; 
+    text-align: right; 
+    color: white; 
+    display: flex;
+    flex-flow: column;
+    justify-self: right;
+}
 .row-h {
     max-width: 1200px;
     width: 100%;
     margin: 0 auto;
-    padding: 0 10px;
+    padding: 0 20px;
     height: 100%;
     box-sizing: border-box;
-    position: relative;
     z-index: 2;
 }
 
@@ -35,11 +42,9 @@ h2 { margin: 20px 0}
 /*colorStart*/
 :root {
     --clr-orange: #de8200;
-    --clr-red: rgba(220, 20, 60, 0.79);
-    --clr-ylw: #ffd600;
+    --clr-red: rgba(255, 0, 51, 0.79);
 }
 .txt-orange {color: var(--clr-orange);}
-.txt-ylw {color: var(--clr-ylw);}
 .txt-red {color: var(--clr-red);}
 
 /*ColorsEnd*/
@@ -48,22 +53,25 @@ h2 { margin: 20px 0}
 header {
     width: 100%;
     height: 100px;
-    border-bottom: 1px solid rgba(23, 23, 23, 0.49);
-    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #000;
     position: absolute;
+    z-index: 5;
 }
 
 .header {
     display: flex;
-    width: 100%;
     justify-content: space-between;
     height: 100%;
     align-items: center;
-    position: sticky;
-    top: 0;
-    left: 0;
-    z-index: 2;
 }
+
+.header-city {
+    font-size: 2.5em;
+    color: #ffd600;
+}
+
 
 /*headerEnd*/
 /*GeneralSection*/
@@ -216,24 +224,57 @@ section {
     height: 600px;
     margin: 10px 0;
     position: relative;
+    border: 1px solid transparent;
 }
 
 .service-box-item:hover {
     cursor: pointer;
-    box-shadow: black 1px 1px 20px 1px;
+    border: 1px solid grey;
 }
 
 .item-title {text-align: center}
 /*SectionThreeEnd*/
 /*SectionFour*/
-a i.im {color:var(--clr-orange); font-size: 64px;}
-a i.im-whatsapp {color: #2cb742}
-a i.im-paperplane {color:#0084c6;}
-a i.im-mail {color: white;}
-
-a i.im:hover {color: white;}
 #section4 {background-color: #b0b0b0; align-items: center; background-image: url("https://via.placeholder.com/300");
     display: flex; width: 100%; flex-flow: column wrap}
 #section4 h2 {color: white;}
 .section4-block-info {width: 400px;display: flex; justify-content: space-between;align-items: center;margin: 20px auto;}
 /*SectionFourEnd*/
+
+.aydiev-mansur {
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 780px) { 
+    .section-one-intro {
+        flex-flow: column;
+        text-align: center;
+    }
+    .section-one-info {
+        margin-bottom: 20px;
+    }
+
+    .service-box {
+        flex-flow: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .header p {
+        font-size: 1.5rem;
+    }
+
+    .phoneNumber {
+        font-size: 1rem;
+    }
+
+    .phoneNumber span {
+        color: gold;
+    }
+
+    .section-two-item-img {
+        display: none;
+    }
+ }
