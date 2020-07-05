@@ -89,10 +89,15 @@ section {
     background-position: center;
     object-fit: cover;
     position: relative;
-    padding: 250px 0;
+    padding: 150px 0;
     display: flex;
     justify-content: center;
     flex-flow: column wrap;
+}
+
+.section-one-img img {
+    max-width: 250px;
+    width: 100%;
 }
 
 .section-one-info {
@@ -118,12 +123,11 @@ section {
     border: 1px solid var(--clr-red);
     border-radius: 50px;
     background: black;
-    width: 300px;
+    width: 100%;
+    max-width: 300px;
     font-size: 24px;
-    text-decoration: none;
     text-align: center;
     align-self: center;
-    z-index: 2;
     margin: 50px 0;
 }
 
@@ -200,8 +204,7 @@ section {
 .section-three {
     display: flex;
     justify-content: center;
-    padding-top: 45px;
-    padding-bottom: 135px;
+    padding: 20px 0 20px 0;
     flex-flow: column;
     align-items: center;
 }
@@ -214,10 +217,16 @@ section {
     position: relative;
 }
 
+.service-box img {
+    max-width: 300px;
+    width: 100%;
+}
+
 .service-box-item {
     display: flex;
     flex-flow: column nowrap;
-    width: 360px;
+    max-width: 350px;
+    width: 100%;
     background-color: white;
     justify-content: space-evenly;
     align-items: center;
@@ -238,7 +247,7 @@ section {
 #section4 {background-color: #b0b0b0; align-items: center; background-image: url("https://via.placeholder.com/300");
     display: flex; width: 100%; flex-flow: column wrap}
 #section4 h2 {color: white;}
-.section4-block-info {width: 400px;display: flex; justify-content: space-between;align-items: center;margin: 20px auto;}
+.section4-block-info {width: 100%;display: flex; justify-content: space-between;align-items: center;margin: 20px auto;}
 /*SectionFourEnd*/
 
 .aydiev-mansur {
@@ -276,5 +285,10 @@ section {
 
     .section-two-item-img {
         display: none;
+    }
+
+    .section-one-btn {
+        max-width: 200px;
+        font-size: 1.2rem;
     }
  }
