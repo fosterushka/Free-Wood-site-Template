@@ -8,6 +8,10 @@ Pls do not remove my link from the footer, keep copyright if you're using for co
 ⚠️Before using read the License⚠️<br>
 ⚠️Перед использованием прочитайте лицензию⚠️
 
-05.07.20 / Clean project and make responsive 💻 📱
-
+# 05.07.20  
+Clean project and make responsive for mobile device 💻 📱 <br> 
+Проект почищен, адаптирован под мобильные устройства.
+# 8.02.20 
+ Moved to bootstrap WIP
+ 
 DEMO/Демо сайта https://idevmans.github.io/Free-Wood-site-Template/
