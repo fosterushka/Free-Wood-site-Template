@@ -21,7 +21,7 @@ a {text-decoration: none; !important;}
     top: 20px;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 750px) {
     #itemswood {
         flex-flow: column;
     }
