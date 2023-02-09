@@ -12,6 +12,7 @@
 <script>
 export default {
   name: "NavBar",
+  components: {},
   props: {
     phone: {
       type: Number,
@@ -25,6 +26,4 @@ export default {
 }
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>

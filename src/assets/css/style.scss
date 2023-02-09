@@ -1,9 +1,8 @@
 * {font-family: 'Play', sans-serif;user-select: none; scroll-behavior: smooth}
-a {text-decoration: none; !important;}
 
 /*SectionOne*/
 .section-one {
-    background-image: url("https://images.unsplash.com/photo-1517757910079-f57fd7f49a91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1348&q=80");
+    background-image: url("../../assets/img/wood.jpg");
     object-fit: fill;
     position: relative;
     padding: 150px 0;
@@ -22,7 +21,7 @@ a {text-decoration: none; !important;}
 }
 
 @media screen and (max-width: 750px) {
-    #itemswood {
+    #items-wood {
         flex-flow: column;
     }
 }
