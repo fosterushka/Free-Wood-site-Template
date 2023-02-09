@@ -1,17 +1,10 @@
-# Free template site for selling firelogs🔥🌲 <br> Бесплатный сайт для продажи дров 🔥🌲
-FEEL FREE TO USE🤗 <br> Используйте это бесплатно 🤗<br>
-IF YOU NEED ANY FIX OR YOU WANT TO SUGGEST SOMETHING JUST CREATE ISSUE💡 <br> Если у нужно что-то исправить или у вас есть идея создайте issue💡
+# Vue 3 + Vite
 
-Pls do not remove my link from the footer, keep copyright if you're using for commerce.<br>
-Пожалуйста не удаляйте мою ссылку из футера, оставляйте авторство если используете для комерции.
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs,
+check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-⚠️Before using read the License⚠️<br>
-⚠️Перед использованием прочитайте лицензию⚠️
+## Recommended IDE Setup
 
-# 05.07.20  
-Clean project and make responsive for mobile device 💻 📱 <br> 
-Проект почищен, адаптирован под мобильные устройства.
-# 8.02.20 
- Moved to bootstrap WIP
- 
-DEMO/Демо сайта https://idevmans.github.io/Free-Wood-site-Template/
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (
+  and disable
+  Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
