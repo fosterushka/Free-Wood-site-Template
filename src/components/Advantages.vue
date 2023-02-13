@@ -3,7 +3,8 @@
     <div class="container d-flex justify-content-between align-items-center mb-4 mt-4">
       <div class="d-flex flex-column align-items-center text-dark justify-content-center">
         <div class="section-two-item-img d-flex align-items-center justify-content-center">
-          <img alt="" src="assets/img/w1.png"></div>
+          <img alt="" src="assets/img/w1.png">
+        </div>
         <div class="text-dark mt-2">Качество древесины,<br> и честный объем</div>
       </div>
     </div>
@@ -25,4 +26,6 @@ export default {
 }
 </script>
 
-<style scoped></style>
+<style scoped>
+
+</style>

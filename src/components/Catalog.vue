@@ -5,7 +5,7 @@
       <div id="items-wood" class="d-flex justify-content-between">
         <div class="card m-2">
           <img alt="Card image cap" class="card-img-top"
-               src="https://www.nicepng.com/png/full/349-3492910_firewood-fire-logs.png">
+            src="https://www.nicepng.com/png/full/349-3492910_firewood-fire-logs.png">
           <div class="card-body">
             <p class="card-text">СМЕШАННАЯ ОСИНА,ЛИПА И ЕЛЬ</p>
             <p class="hotSale align-items-center d-flex justify-content-center">Акция</p>
@@ -35,4 +35,6 @@ export default {
 }
 </script>
 
-<style scoped></style>
+<style scoped>
+
+</style>

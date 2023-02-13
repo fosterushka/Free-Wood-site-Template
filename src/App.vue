@@ -1,5 +1,5 @@
 <template>
-  <NavBar :city-name="cityName" phone="79991234567"/>
+  <NavBar :city-name="cityName" :phone="phone"/>
   <IntroSection :city-name="cityName"/>
   <Advantages :advantages="advantages"/>
   <Catalog/>
@@ -24,7 +24,8 @@ export default {
   },
   data() {
     return {
-      cityName: "Москва",
+      cityName: "asdsa",
+      phone: "adasdsdsaddsa",
       advantages() {
         return [
           {
