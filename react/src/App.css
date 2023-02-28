@@ -1,0 +1,28 @@
+* {font-family: 'Play', sans-serif;user-select: none; scroll-behavior: smooth}
+a {text-decoration: none; !important;}
+
+/*SectionOne*/
+.section-one {
+  background-image: url("https://images.unsplash.com/photo-1517757910079-f57fd7f49a91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1348&q=80");
+  object-fit: fill;
+  position: relative;
+  padding: 150px 0;
+}
+
+.hotSale {
+  border-radius: 50%;
+  background: crimson;
+  height: 100px;
+  width: 100px;
+  color: white;
+  position: absolute;
+  z-index: 3;
+  right: 20px;
+  top: 20px;
+}
+
+@media screen and (max-width: 750px) {
+  #itemswood {
+    flex-flow: column;
+  }
+}
