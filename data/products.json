@@ -1,0 +1,271 @@
+{
+    "categories": [
+        {
+            "id": "mixed",
+            "name": "Смешанные дрова",
+            "products": [
+                {
+                    "id": "mixed-1",
+                    "name": "СМЕШАННАЯ ОСИНА, ЛИПА И ЕЛЬ",
+                    "description": "Идеально подходит для отопления дома и бани",
+                    "image": "https://images.unsplash.com/photo-1453234570968-3ccc4228c867?q=80&w=3096&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "isDiscounted": true,
+                    "discount": 15,
+                    "options": [
+                        {
+                            "name": "1,2куб Пикап",
+                            "price": 2300,
+                            "oldPrice": 2700
+                        },
+                        {
+                            "name": "2,5куб Газель",
+                            "price": 4000,
+                            "oldPrice": 4700
+                        },
+                        {
+                            "name": "5куб Газ Самосвал",
+                            "price": 7500,
+                            "oldPrice": 8800
+                        }
+                    ],
+                    "features": ["Высокая теплоотдача", "Экологически чистые", "Без гнили"]
+                },
+                {
+                    "id": "mixed-2",
+                    "name": "БЕРЕЗА И ДУБ ПРЕМИУМ",
+                    "description": "Премиальные породы дерева с максимальной теплоотдачей",
+                    "image": "https://images.unsplash.com/photo-1453234570968-3ccc4228c867?q=80&w=3096&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "isDiscounted": false,
+                    "options": [
+                        {
+                            "name": "1,2куб Пикап",
+                            "price": 3200
+                        },
+                        {
+                            "name": "2,5куб Газель",
+                            "price": 5500
+                        },
+                        {
+                            "name": "5куб Газ Самосвал",
+                            "price": 9900
+                        }
+                    ],
+                    "features": ["Премиум качество", "Долго горят", "Мало дыма"]
+                },
+                {
+                    "id": "mixed-3",
+                    "name": "СОСНА И ЕЛЬ ЭКОНОМ",
+                    "description": "Экономичный вариант для регулярного использования",
+                    "image": "https://images.unsplash.com/photo-1453234570968-3ccc4228c867?q=80&w=3096&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "isDiscounted": true,
+                    "discount": 20,
+                    "options": [
+                        {
+                            "name": "1,2куб Пикап",
+                            "price": 1800,
+                            "oldPrice": 2250
+                        },
+                        {
+                            "name": "2,5куб Газель",
+                            "price": 3300,
+                            "oldPrice": 4125
+                        },
+                        {
+                            "name": "5куб Газ Самосвал",
+                            "price": 6000,
+                            "oldPrice": 7500
+                        }
+                    ],
+                    "features": ["Быстрый розжиг", "Приятный аромат", "Доступная цена"]
+                },
+                {
+                    "name": "Сосна",
+                    "description": "Высококачественная древесина сосны для строительства",
+                    "image": "https://images.unsplash.com/photo-1453234570968-3ccc4228c867?q=80&w=3096&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "features": [
+                        "Высокая прочность",
+                        "Натуральный материал",
+                        "Долговечность",
+                        "Экологичность"
+                    ],
+                    "options": [
+                        {
+                            "name": "Доска 25x150",
+                            "price": 15000,
+                            "oldPrice": 17000
+                        },
+                        {
+                            "name": "Брус 150x150",
+                            "price": 22000,
+                            "oldPrice": 24000
+                        }
+                    ],
+                    "isDiscounted": true,
+                    "discount": 15
+                },
+                {
+                    "name": "Дуб",
+                    "description": "Премиальная древесина дуба для элитных проектов",
+                    "image": "https://images.unsplash.com/photo-1453234570968-3ccc4228c867?q=80&w=3096&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "features": [
+                        "Премиум качество",
+                        "Высокая плотность",
+                        "Устойчивость к влаге",
+                        "Престижный внешний вид"
+                    ],
+                    "options": [
+                        {
+                            "name": "Доска 20x120",
+                            "price": 35000,
+                            "oldPrice": 38000
+                        },
+                        {
+                            "name": "Паркет 15x90",
+                            "price": 42000,
+                            "oldPrice": 45000
+                        }
+                    ],
+                    "isDiscounted": true,
+                    "discount": 10
+                },
+                {
+                    "name": "Лиственница",
+                    "description": "Прочная и долговечная древесина лиственницы",
+                    "image": "https://images.unsplash.com/photo-1453234570968-3ccc4228c867?q=80&w=3096&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "features": [
+                        "Высокая прочность",
+                        "Влагостойкость",
+                        "Природная красота",
+                        "Долгий срок службы"
+                    ],
+                    "options": [
+                        {
+                            "name": "Доска 30x150",
+                            "price": 28000,
+                            "oldPrice": 30000
+                        },
+                        {
+                            "name": "Брус 200x200",
+                            "price": 38000
+                        }
+                    ],
+                    "isDiscounted": false
+                }
+            ]
+        },
+        {
+            "name": "Пиломатериалы",
+            "products": [
+                {
+                    "name": "Сосна",
+                    "description": "Высококачественная древесина сосны для строительства",
+                    "image": "https://images.unsplash.com/photo-1453234570968-3ccc4228c867?q=80&w=3096&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "features": [
+                        "Высокая прочность",
+                        "Натуральный материал",
+                        "Долговечность",
+                        "Экологичность"
+                    ],
+                    "options": [
+                        {
+                            "name": "Доска 25x150",
+                            "price": 15000,
+                            "oldPrice": 17000
+                        },
+                        {
+                            "name": "Брус 150x150",
+                            "price": 22000,
+                            "oldPrice": 24000
+                        }
+                    ],
+                    "isDiscounted": true,
+                    "discount": 15
+                },
+                {
+                    "name": "Дуб",
+                    "description": "Премиальная древесина дуба для элитных проектов",
+                    "image": "https://images.unsplash.com/photo-1453234570968-3ccc4228c867?q=80&w=3096&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "features": [
+                        "Премиум качество",
+                        "Высокая плотность",
+                        "Устойчивость к влаге",
+                        "Престижный внешний вид"
+                    ],
+                    "options": [
+                        {
+                            "name": "Доска 20x120",
+                            "price": 35000,
+                            "oldPrice": 38000
+                        },
+                        {
+                            "name": "Паркет 15x90",
+                            "price": 42000,
+                            "oldPrice": 45000
+                        }
+                    ],
+                    "isDiscounted": true,
+                    "discount": 10
+                },
+                {
+                    "name": "Лиственница",
+                    "description": "Прочная и долговечная древесина лиственницы",
+                    "image": "https://images.unsplash.com/photo-1453234570968-3ccc4228c867?q=80&w=3096&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "features": [
+                        "Высокая прочность",
+                        "Влагостойкость",
+                        "Природная красота",
+                        "Долгий срок службы"
+                    ],
+                    "options": [
+                        {
+                            "name": "Доска 30x150",
+                            "price": 28000,
+                            "oldPrice": 30000
+                        },
+                        {
+                            "name": "Брус 200x200",
+                            "price": 38000
+                        }
+                    ],
+                    "isDiscounted": false
+                }
+            ]
+        }
+    ],
+    "features": [
+        {
+            "id": "quality",
+            "title": "Качество древесины",
+            "description": "Тщательный отбор и честный объем",
+            "icon": "quality"
+        },
+        {
+            "id": "delivery",
+            "title": "Бесплатная доставка",
+            "description": "По городу и области",
+            "icon": "delivery"
+        },
+        {
+            "id": "price",
+            "title": "Доступные цены",
+            "description": "Лучшие цены на рынке",
+            "icon": "price"
+        },
+        {
+            "id": "eco",
+            "title": "Экологичность",
+            "description": "100% натуральный продукт",
+            "icon": "eco"
+        }
+    ],
+    "contact": {
+        "phone": "71111111111",
+        "email": "info@example.com",
+        "address": "г. *Город*, ул. Примерная, 123",
+        "coordinates": {
+            "lat": 55.779585,
+            "lng": 37.591192
+        },
+        "workingHours": "Пн-Сб: 9:00 - 20:00"
+    }
+}
